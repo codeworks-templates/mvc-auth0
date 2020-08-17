@@ -1,0 +1,1584 @@
+@import "https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css";
+.bg-blue {
+  color: color-yiq(blue);
+  background-color: blue;
+}
+
+.bg-indigo {
+  color: color-yiq(indigo);
+  background-color: indigo;
+}
+
+.bg-purple {
+  color: color-yiq(purple);
+  background-color: purple;
+}
+
+.bg-pink {
+  color: color-yiq(pink);
+  background-color: pink;
+}
+
+.bg-red {
+  color: color-yiq(red);
+  background-color: red;
+}
+
+.bg-orange {
+  color: color-yiq(orange);
+  background-color: orange;
+}
+
+.bg-yellow {
+  color: color-yiq(yellow);
+  background-color: yellow;
+}
+
+.bg-green {
+  color: color-yiq(green);
+  background-color: green;
+}
+
+.bg-teal {
+  color: color-yiq(teal);
+  background-color: teal;
+}
+
+.bg-cyan {
+  color: color-yiq(cyan);
+  background-color: cyan;
+}
+
+.bg-white {
+  color: color-yiq(white);
+  background-color: white;
+}
+
+.bg-gray {
+  color: color-yiq(#4F4F4F);
+  background-color: #4F4F4F;
+}
+
+.bg-gray-dark {
+  color: color-yiq(darkslategray);
+  background-color: darkslategray;
+}
+
+.bg-blue.darken-0 {
+  color: color-yiq(blue);
+  background-color: blue;
+}
+
+.bg-blue.darken-10 {
+  color: color-yiq(#0000cc);
+  background-color: #0000cc;
+}
+
+.bg-blue.darken-20 {
+  color: color-yiq(#000099);
+  background-color: #000099;
+}
+
+.bg-blue.darken-30 {
+  color: color-yiq(#000066);
+  background-color: #000066;
+}
+
+.bg-blue.darken-40 {
+  color: color-yiq(#000033);
+  background-color: #000033;
+}
+
+.bg-blue.darken-50 {
+  color: color-yiq(black);
+  background-color: black;
+}
+
+.bg-blue.darken-60 {
+  color: color-yiq(black);
+  background-color: black;
+}
+
+.bg-blue.darken-70 {
+  color: color-yiq(black);
+  background-color: black;
+}
+
+.bg-blue.darken-80 {
+  color: color-yiq(black);
+  background-color: black;
+}
+
+.bg-blue.darken-90 {
+  color: color-yiq(black);
+  background-color: black;
+}
+
+.bg-blue.darken-100 {
+  color: color-yiq(black);
+  background-color: black;
+}
+
+.bg-indigo.darken-0 {
+  color: color-yiq(indigo);
+  background-color: indigo;
+}
+
+.bg-indigo.darken-10 {
+  color: color-yiq(#2e004f);
+  background-color: #2e004f;
+}
+
+.bg-indigo.darken-20 {
+  color: color-yiq(#10001c);
+  background-color: #10001c;
+}
+
+.bg-indigo.darken-30 {
+  color: color-yiq(black);
+  background-color: black;
+}
+
+.bg-indigo.darken-40 {
+  color: color-yiq(black);
+  background-color: black;
+}
+
+.bg-indigo.darken-50 {
+  color: color-yiq(black);
+  background-color: black;
+}
+
+.bg-indigo.darken-60 {
+  color: color-yiq(black);
+  background-color: black;
+}
+
+.bg-indigo.darken-70 {
+  color: color-yiq(black);
+  background-color: black;
+}
+
+.bg-indigo.darken-80 {
+  color: color-yiq(black);
+  background-color: black;
+}
+
+.bg-indigo.darken-90 {
+  color: color-yiq(black);
+  background-color: black;
+}
+
+.bg-indigo.darken-100 {
+  color: color-yiq(black);
+  background-color: black;
+}
+
+.bg-purple.darken-0 {
+  color: color-yiq(purple);
+  background-color: purple;
+}
+
+.bg-purple.darken-10 {
+  color: color-yiq(#4d004d);
+  background-color: #4d004d;
+}
+
+.bg-purple.darken-20 {
+  color: color-yiq(#1a001a);
+  background-color: #1a001a;
+}
+
+.bg-purple.darken-30 {
+  color: color-yiq(black);
+  background-color: black;
+}
+
+.bg-purple.darken-40 {
+  color: color-yiq(black);
+  background-color: black;
+}
+
+.bg-purple.darken-50 {
+  color: color-yiq(black);
+  background-color: black;
+}
+
+.bg-purple.darken-60 {
+  color: color-yiq(black);
+  background-color: black;
+}
+
+.bg-purple.darken-70 {
+  color: color-yiq(black);
+  background-color: black;
+}
+
+.bg-purple.darken-80 {
+  color: color-yiq(black);
+  background-color: black;
+}
+
+.bg-purple.darken-90 {
+  color: color-yiq(black);
+  background-color: black;
+}
+
+.bg-purple.darken-100 {
+  color: color-yiq(black);
+  background-color: black;
+}
+
+.bg-pink.darken-0 {
+  color: color-yiq(pink);
+  background-color: pink;
+}
+
+.bg-pink.darken-10 {
+  color: color-yiq(#ff8da1);
+  background-color: #ff8da1;
+}
+
+.bg-pink.darken-20 {
+  color: color-yiq(#ff5a77);
+  background-color: #ff5a77;
+}
+
+.bg-pink.darken-30 {
+  color: color-yiq(#ff274d);
+  background-color: #ff274d;
+}
+
+.bg-pink.darken-40 {
+  color: color-yiq(#f3002a);
+  background-color: #f3002a;
+}
+
+.bg-pink.darken-50 {
+  color: color-yiq(#c00022);
+  background-color: #c00022;
+}
+
+.bg-pink.darken-60 {
+  color: color-yiq(#8d0019);
+  background-color: #8d0019;
+}
+
+.bg-pink.darken-70 {
+  color: color-yiq(#5a0010);
+  background-color: #5a0010;
+}
+
+.bg-pink.darken-80 {
+  color: color-yiq(#270007);
+  background-color: #270007;
+}
+
+.bg-pink.darken-90 {
+  color: color-yiq(black);
+  background-color: black;
+}
+
+.bg-pink.darken-100 {
+  color: color-yiq(black);
+  background-color: black;
+}
+
+.bg-red.darken-0 {
+  color: color-yiq(red);
+  background-color: red;
+}
+
+.bg-red.darken-10 {
+  color: color-yiq(#cc0000);
+  background-color: #cc0000;
+}
+
+.bg-red.darken-20 {
+  color: color-yiq(#990000);
+  background-color: #990000;
+}
+
+.bg-red.darken-30 {
+  color: color-yiq(#660000);
+  background-color: #660000;
+}
+
+.bg-red.darken-40 {
+  color: color-yiq(#330000);
+  background-color: #330000;
+}
+
+.bg-red.darken-50 {
+  color: color-yiq(black);
+  background-color: black;
+}
+
+.bg-red.darken-60 {
+  color: color-yiq(black);
+  background-color: black;
+}
+
+.bg-red.darken-70 {
+  color: color-yiq(black);
+  background-color: black;
+}
+
+.bg-red.darken-80 {
+  color: color-yiq(black);
+  background-color: black;
+}
+
+.bg-red.darken-90 {
+  color: color-yiq(black);
+  background-color: black;
+}
+
+.bg-red.darken-100 {
+  color: color-yiq(black);
+  background-color: black;
+}
+
+.bg-orange.darken-0 {
+  color: color-yiq(orange);
+  background-color: orange;
+}
+
+.bg-orange.darken-10 {
+  color: color-yiq(#cc8400);
+  background-color: #cc8400;
+}
+
+.bg-orange.darken-20 {
+  color: color-yiq(#996300);
+  background-color: #996300;
+}
+
+.bg-orange.darken-30 {
+  color: color-yiq(#664200);
+  background-color: #664200;
+}
+
+.bg-orange.darken-40 {
+  color: color-yiq(#332100);
+  background-color: #332100;
+}
+
+.bg-orange.darken-50 {
+  color: color-yiq(black);
+  background-color: black;
+}
+
+.bg-orange.darken-60 {
+  color: color-yiq(black);
+  background-color: black;
+}
+
+.bg-orange.darken-70 {
+  color: color-yiq(black);
+  background-color: black;
+}
+
+.bg-orange.darken-80 {
+  color: color-yiq(black);
+  background-color: black;
+}
+
+.bg-orange.darken-90 {
+  color: color-yiq(black);
+  background-color: black;
+}
+
+.bg-orange.darken-100 {
+  color: color-yiq(black);
+  background-color: black;
+}
+
+.bg-yellow.darken-0 {
+  color: color-yiq(yellow);
+  background-color: yellow;
+}
+
+.bg-yellow.darken-10 {
+  color: color-yiq(#cccc00);
+  background-color: #cccc00;
+}
+
+.bg-yellow.darken-20 {
+  color: color-yiq(#999900);
+  background-color: #999900;
+}
+
+.bg-yellow.darken-30 {
+  color: color-yiq(#666600);
+  background-color: #666600;
+}
+
+.bg-yellow.darken-40 {
+  color: color-yiq(#333300);
+  background-color: #333300;
+}
+
+.bg-yellow.darken-50 {
+  color: color-yiq(black);
+  background-color: black;
+}
+
+.bg-yellow.darken-60 {
+  color: color-yiq(black);
+  background-color: black;
+}
+
+.bg-yellow.darken-70 {
+  color: color-yiq(black);
+  background-color: black;
+}
+
+.bg-yellow.darken-80 {
+  color: color-yiq(black);
+  background-color: black;
+}
+
+.bg-yellow.darken-90 {
+  color: color-yiq(black);
+  background-color: black;
+}
+
+.bg-yellow.darken-100 {
+  color: color-yiq(black);
+  background-color: black;
+}
+
+.bg-green.darken-0 {
+  color: color-yiq(green);
+  background-color: green;
+}
+
+.bg-green.darken-10 {
+  color: color-yiq(#004d00);
+  background-color: #004d00;
+}
+
+.bg-green.darken-20 {
+  color: color-yiq(#001a00);
+  background-color: #001a00;
+}
+
+.bg-green.darken-30 {
+  color: color-yiq(black);
+  background-color: black;
+}
+
+.bg-green.darken-40 {
+  color: color-yiq(black);
+  background-color: black;
+}
+
+.bg-green.darken-50 {
+  color: color-yiq(black);
+  background-color: black;
+}
+
+.bg-green.darken-60 {
+  color: color-yiq(black);
+  background-color: black;
+}
+
+.bg-green.darken-70 {
+  color: color-yiq(black);
+  background-color: black;
+}
+
+.bg-green.darken-80 {
+  color: color-yiq(black);
+  background-color: black;
+}
+
+.bg-green.darken-90 {
+  color: color-yiq(black);
+  background-color: black;
+}
+
+.bg-green.darken-100 {
+  color: color-yiq(black);
+  background-color: black;
+}
+
+.bg-teal.darken-0 {
+  color: color-yiq(teal);
+  background-color: teal;
+}
+
+.bg-teal.darken-10 {
+  color: color-yiq(#004d4d);
+  background-color: #004d4d;
+}
+
+.bg-teal.darken-20 {
+  color: color-yiq(#001a1a);
+  background-color: #001a1a;
+}
+
+.bg-teal.darken-30 {
+  color: color-yiq(black);
+  background-color: black;
+}
+
+.bg-teal.darken-40 {
+  color: color-yiq(black);
+  background-color: black;
+}
+
+.bg-teal.darken-50 {
+  color: color-yiq(black);
+  background-color: black;
+}
+
+.bg-teal.darken-60 {
+  color: color-yiq(black);
+  background-color: black;
+}
+
+.bg-teal.darken-70 {
+  color: color-yiq(black);
+  background-color: black;
+}
+
+.bg-teal.darken-80 {
+  color: color-yiq(black);
+  background-color: black;
+}
+
+.bg-teal.darken-90 {
+  color: color-yiq(black);
+  background-color: black;
+}
+
+.bg-teal.darken-100 {
+  color: color-yiq(black);
+  background-color: black;
+}
+
+.bg-cyan.darken-0 {
+  color: color-yiq(aqua);
+  background-color: aqua;
+}
+
+.bg-cyan.darken-10 {
+  color: color-yiq(#00cccc);
+  background-color: #00cccc;
+}
+
+.bg-cyan.darken-20 {
+  color: color-yiq(#009999);
+  background-color: #009999;
+}
+
+.bg-cyan.darken-30 {
+  color: color-yiq(#006666);
+  background-color: #006666;
+}
+
+.bg-cyan.darken-40 {
+  color: color-yiq(#003333);
+  background-color: #003333;
+}
+
+.bg-cyan.darken-50 {
+  color: color-yiq(black);
+  background-color: black;
+}
+
+.bg-cyan.darken-60 {
+  color: color-yiq(black);
+  background-color: black;
+}
+
+.bg-cyan.darken-70 {
+  color: color-yiq(black);
+  background-color: black;
+}
+
+.bg-cyan.darken-80 {
+  color: color-yiq(black);
+  background-color: black;
+}
+
+.bg-cyan.darken-90 {
+  color: color-yiq(black);
+  background-color: black;
+}
+
+.bg-cyan.darken-100 {
+  color: color-yiq(black);
+  background-color: black;
+}
+
+.bg-white.darken-0 {
+  color: color-yiq(white);
+  background-color: white;
+}
+
+.bg-white.darken-10 {
+  color: color-yiq(#e6e6e6);
+  background-color: #e6e6e6;
+}
+
+.bg-white.darken-20 {
+  color: color-yiq(#cccccc);
+  background-color: #cccccc;
+}
+
+.bg-white.darken-30 {
+  color: color-yiq(#b3b3b3);
+  background-color: #b3b3b3;
+}
+
+.bg-white.darken-40 {
+  color: color-yiq(#999999);
+  background-color: #999999;
+}
+
+.bg-white.darken-50 {
+  color: color-yiq(gray);
+  background-color: gray;
+}
+
+.bg-white.darken-60 {
+  color: color-yiq(#666666);
+  background-color: #666666;
+}
+
+.bg-white.darken-70 {
+  color: color-yiq(#4d4d4d);
+  background-color: #4d4d4d;
+}
+
+.bg-white.darken-80 {
+  color: color-yiq(#333333);
+  background-color: #333333;
+}
+
+.bg-white.darken-90 {
+  color: color-yiq(#1a1a1a);
+  background-color: #1a1a1a;
+}
+
+.bg-white.darken-100 {
+  color: color-yiq(black);
+  background-color: black;
+}
+
+.bg-gray.darken-0 {
+  color: color-yiq(#4f4f4f);
+  background-color: #4f4f4f;
+}
+
+.bg-gray.darken-10 {
+  color: color-yiq(#363636);
+  background-color: #363636;
+}
+
+.bg-gray.darken-20 {
+  color: color-yiq(#1c1c1c);
+  background-color: #1c1c1c;
+}
+
+.bg-gray.darken-30 {
+  color: color-yiq(#030303);
+  background-color: #030303;
+}
+
+.bg-gray.darken-40 {
+  color: color-yiq(black);
+  background-color: black;
+}
+
+.bg-gray.darken-50 {
+  color: color-yiq(black);
+  background-color: black;
+}
+
+.bg-gray.darken-60 {
+  color: color-yiq(black);
+  background-color: black;
+}
+
+.bg-gray.darken-70 {
+  color: color-yiq(black);
+  background-color: black;
+}
+
+.bg-gray.darken-80 {
+  color: color-yiq(black);
+  background-color: black;
+}
+
+.bg-gray.darken-90 {
+  color: color-yiq(black);
+  background-color: black;
+}
+
+.bg-gray.darken-100 {
+  color: color-yiq(black);
+  background-color: black;
+}
+
+.bg-gray-dark.darken-0 {
+  color: color-yiq(darkslategray);
+  background-color: darkslategray;
+}
+
+.bg-gray-dark.darken-10 {
+  color: color-yiq(#1c2f2f);
+  background-color: #1c2f2f;
+}
+
+.bg-gray-dark.darken-20 {
+  color: color-yiq(#090f0f);
+  background-color: #090f0f;
+}
+
+.bg-gray-dark.darken-30 {
+  color: color-yiq(black);
+  background-color: black;
+}
+
+.bg-gray-dark.darken-40 {
+  color: color-yiq(black);
+  background-color: black;
+}
+
+.bg-gray-dark.darken-50 {
+  color: color-yiq(black);
+  background-color: black;
+}
+
+.bg-gray-dark.darken-60 {
+  color: color-yiq(black);
+  background-color: black;
+}
+
+.bg-gray-dark.darken-70 {
+  color: color-yiq(black);
+  background-color: black;
+}
+
+.bg-gray-dark.darken-80 {
+  color: color-yiq(black);
+  background-color: black;
+}
+
+.bg-gray-dark.darken-90 {
+  color: color-yiq(black);
+  background-color: black;
+}
+
+.bg-gray-dark.darken-100 {
+  color: color-yiq(black);
+  background-color: black;
+}
+
+.bg-blue.lighten-0 {
+  color: color-yiq(blue);
+  background-color: blue;
+}
+
+.bg-blue.lighten-10 {
+  color: color-yiq(#3333ff);
+  background-color: #3333ff;
+}
+
+.bg-blue.lighten-20 {
+  color: color-yiq(#6666ff);
+  background-color: #6666ff;
+}
+
+.bg-blue.lighten-30 {
+  color: color-yiq(#9999ff);
+  background-color: #9999ff;
+}
+
+.bg-blue.lighten-40 {
+  color: color-yiq(#ccccff);
+  background-color: #ccccff;
+}
+
+.bg-blue.lighten-50 {
+  color: color-yiq(white);
+  background-color: white;
+}
+
+.bg-blue.lighten-60 {
+  color: color-yiq(white);
+  background-color: white;
+}
+
+.bg-blue.lighten-70 {
+  color: color-yiq(white);
+  background-color: white;
+}
+
+.bg-blue.lighten-80 {
+  color: color-yiq(white);
+  background-color: white;
+}
+
+.bg-blue.lighten-90 {
+  color: color-yiq(white);
+  background-color: white;
+}
+
+.bg-blue.lighten-100 {
+  color: color-yiq(white);
+  background-color: white;
+}
+
+.bg-indigo.lighten-0 {
+  color: color-yiq(indigo);
+  background-color: indigo;
+}
+
+.bg-indigo.lighten-10 {
+  color: color-yiq(#6800b5);
+  background-color: #6800b5;
+}
+
+.bg-indigo.lighten-20 {
+  color: color-yiq(#8600e8);
+  background-color: #8600e8;
+}
+
+.bg-indigo.lighten-30 {
+  color: color-yiq(#9f1cff);
+  background-color: #9f1cff;
+}
+
+.bg-indigo.lighten-40 {
+  color: color-yiq(#b54fff);
+  background-color: #b54fff;
+}
+
+.bg-indigo.lighten-50 {
+  color: color-yiq(#ca82ff);
+  background-color: #ca82ff;
+}
+
+.bg-indigo.lighten-60 {
+  color: color-yiq(#e0b5ff);
+  background-color: #e0b5ff;
+}
+
+.bg-indigo.lighten-70 {
+  color: color-yiq(#f5e8ff);
+  background-color: #f5e8ff;
+}
+
+.bg-indigo.lighten-80 {
+  color: color-yiq(white);
+  background-color: white;
+}
+
+.bg-indigo.lighten-90 {
+  color: color-yiq(white);
+  background-color: white;
+}
+
+.bg-indigo.lighten-100 {
+  color: color-yiq(white);
+  background-color: white;
+}
+
+.bg-purple.lighten-0 {
+  color: color-yiq(purple);
+  background-color: purple;
+}
+
+.bg-purple.lighten-10 {
+  color: color-yiq(#b300b3);
+  background-color: #b300b3;
+}
+
+.bg-purple.lighten-20 {
+  color: color-yiq(#e600e6);
+  background-color: #e600e6;
+}
+
+.bg-purple.lighten-30 {
+  color: color-yiq(#ff1aff);
+  background-color: #ff1aff;
+}
+
+.bg-purple.lighten-40 {
+  color: color-yiq(#ff4dff);
+  background-color: #ff4dff;
+}
+
+.bg-purple.lighten-50 {
+  color: color-yiq(#ff80ff);
+  background-color: #ff80ff;
+}
+
+.bg-purple.lighten-60 {
+  color: color-yiq(#ffb3ff);
+  background-color: #ffb3ff;
+}
+
+.bg-purple.lighten-70 {
+  color: color-yiq(#ffe6ff);
+  background-color: #ffe6ff;
+}
+
+.bg-purple.lighten-80 {
+  color: color-yiq(white);
+  background-color: white;
+}
+
+.bg-purple.lighten-90 {
+  color: color-yiq(white);
+  background-color: white;
+}
+
+.bg-purple.lighten-100 {
+  color: color-yiq(white);
+  background-color: white;
+}
+
+.bg-pink.lighten-0 {
+  color: color-yiq(pink);
+  background-color: pink;
+}
+
+.bg-pink.lighten-10 {
+  color: color-yiq(#fff3f5);
+  background-color: #fff3f5;
+}
+
+.bg-pink.lighten-20 {
+  color: color-yiq(white);
+  background-color: white;
+}
+
+.bg-pink.lighten-30 {
+  color: color-yiq(white);
+  background-color: white;
+}
+
+.bg-pink.lighten-40 {
+  color: color-yiq(white);
+  background-color: white;
+}
+
+.bg-pink.lighten-50 {
+  color: color-yiq(white);
+  background-color: white;
+}
+
+.bg-pink.lighten-60 {
+  color: color-yiq(white);
+  background-color: white;
+}
+
+.bg-pink.lighten-70 {
+  color: color-yiq(white);
+  background-color: white;
+}
+
+.bg-pink.lighten-80 {
+  color: color-yiq(white);
+  background-color: white;
+}
+
+.bg-pink.lighten-90 {
+  color: color-yiq(white);
+  background-color: white;
+}
+
+.bg-pink.lighten-100 {
+  color: color-yiq(white);
+  background-color: white;
+}
+
+.bg-red.lighten-0 {
+  color: color-yiq(red);
+  background-color: red;
+}
+
+.bg-red.lighten-10 {
+  color: color-yiq(#ff3333);
+  background-color: #ff3333;
+}
+
+.bg-red.lighten-20 {
+  color: color-yiq(#ff6666);
+  background-color: #ff6666;
+}
+
+.bg-red.lighten-30 {
+  color: color-yiq(#ff9999);
+  background-color: #ff9999;
+}
+
+.bg-red.lighten-40 {
+  color: color-yiq(#ffcccc);
+  background-color: #ffcccc;
+}
+
+.bg-red.lighten-50 {
+  color: color-yiq(white);
+  background-color: white;
+}
+
+.bg-red.lighten-60 {
+  color: color-yiq(white);
+  background-color: white;
+}
+
+.bg-red.lighten-70 {
+  color: color-yiq(white);
+  background-color: white;
+}
+
+.bg-red.lighten-80 {
+  color: color-yiq(white);
+  background-color: white;
+}
+
+.bg-red.lighten-90 {
+  color: color-yiq(white);
+  background-color: white;
+}
+
+.bg-red.lighten-100 {
+  color: color-yiq(white);
+  background-color: white;
+}
+
+.bg-orange.lighten-0 {
+  color: color-yiq(orange);
+  background-color: orange;
+}
+
+.bg-orange.lighten-10 {
+  color: color-yiq(#ffb733);
+  background-color: #ffb733;
+}
+
+.bg-orange.lighten-20 {
+  color: color-yiq(#ffc966);
+  background-color: #ffc966;
+}
+
+.bg-orange.lighten-30 {
+  color: color-yiq(#ffdb99);
+  background-color: #ffdb99;
+}
+
+.bg-orange.lighten-40 {
+  color: color-yiq(#ffedcc);
+  background-color: #ffedcc;
+}
+
+.bg-orange.lighten-50 {
+  color: color-yiq(white);
+  background-color: white;
+}
+
+.bg-orange.lighten-60 {
+  color: color-yiq(white);
+  background-color: white;
+}
+
+.bg-orange.lighten-70 {
+  color: color-yiq(white);
+  background-color: white;
+}
+
+.bg-orange.lighten-80 {
+  color: color-yiq(white);
+  background-color: white;
+}
+
+.bg-orange.lighten-90 {
+  color: color-yiq(white);
+  background-color: white;
+}
+
+.bg-orange.lighten-100 {
+  color: color-yiq(white);
+  background-color: white;
+}
+
+.bg-yellow.lighten-0 {
+  color: color-yiq(yellow);
+  background-color: yellow;
+}
+
+.bg-yellow.lighten-10 {
+  color: color-yiq(#ffff33);
+  background-color: #ffff33;
+}
+
+.bg-yellow.lighten-20 {
+  color: color-yiq(#ffff66);
+  background-color: #ffff66;
+}
+
+.bg-yellow.lighten-30 {
+  color: color-yiq(#ffff99);
+  background-color: #ffff99;
+}
+
+.bg-yellow.lighten-40 {
+  color: color-yiq(#ffffcc);
+  background-color: #ffffcc;
+}
+
+.bg-yellow.lighten-50 {
+  color: color-yiq(white);
+  background-color: white;
+}
+
+.bg-yellow.lighten-60 {
+  color: color-yiq(white);
+  background-color: white;
+}
+
+.bg-yellow.lighten-70 {
+  color: color-yiq(white);
+  background-color: white;
+}
+
+.bg-yellow.lighten-80 {
+  color: color-yiq(white);
+  background-color: white;
+}
+
+.bg-yellow.lighten-90 {
+  color: color-yiq(white);
+  background-color: white;
+}
+
+.bg-yellow.lighten-100 {
+  color: color-yiq(white);
+  background-color: white;
+}
+
+.bg-green.lighten-0 {
+  color: color-yiq(green);
+  background-color: green;
+}
+
+.bg-green.lighten-10 {
+  color: color-yiq(#00b300);
+  background-color: #00b300;
+}
+
+.bg-green.lighten-20 {
+  color: color-yiq(#00e600);
+  background-color: #00e600;
+}
+
+.bg-green.lighten-30 {
+  color: color-yiq(#1aff1a);
+  background-color: #1aff1a;
+}
+
+.bg-green.lighten-40 {
+  color: color-yiq(#4dff4d);
+  background-color: #4dff4d;
+}
+
+.bg-green.lighten-50 {
+  color: color-yiq(#80ff80);
+  background-color: #80ff80;
+}
+
+.bg-green.lighten-60 {
+  color: color-yiq(#b3ffb3);
+  background-color: #b3ffb3;
+}
+
+.bg-green.lighten-70 {
+  color: color-yiq(#e6ffe6);
+  background-color: #e6ffe6;
+}
+
+.bg-green.lighten-80 {
+  color: color-yiq(white);
+  background-color: white;
+}
+
+.bg-green.lighten-90 {
+  color: color-yiq(white);
+  background-color: white;
+}
+
+.bg-green.lighten-100 {
+  color: color-yiq(white);
+  background-color: white;
+}
+
+.bg-teal.lighten-0 {
+  color: color-yiq(teal);
+  background-color: teal;
+}
+
+.bg-teal.lighten-10 {
+  color: color-yiq(#00b3b3);
+  background-color: #00b3b3;
+}
+
+.bg-teal.lighten-20 {
+  color: color-yiq(#00e6e6);
+  background-color: #00e6e6;
+}
+
+.bg-teal.lighten-30 {
+  color: color-yiq(#1affff);
+  background-color: #1affff;
+}
+
+.bg-teal.lighten-40 {
+  color: color-yiq(#4dffff);
+  background-color: #4dffff;
+}
+
+.bg-teal.lighten-50 {
+  color: color-yiq(#80ffff);
+  background-color: #80ffff;
+}
+
+.bg-teal.lighten-60 {
+  color: color-yiq(#b3ffff);
+  background-color: #b3ffff;
+}
+
+.bg-teal.lighten-70 {
+  color: color-yiq(#e6ffff);
+  background-color: #e6ffff;
+}
+
+.bg-teal.lighten-80 {
+  color: color-yiq(white);
+  background-color: white;
+}
+
+.bg-teal.lighten-90 {
+  color: color-yiq(white);
+  background-color: white;
+}
+
+.bg-teal.lighten-100 {
+  color: color-yiq(white);
+  background-color: white;
+}
+
+.bg-cyan.lighten-0 {
+  color: color-yiq(aqua);
+  background-color: aqua;
+}
+
+.bg-cyan.lighten-10 {
+  color: color-yiq(#33ffff);
+  background-color: #33ffff;
+}
+
+.bg-cyan.lighten-20 {
+  color: color-yiq(#66ffff);
+  background-color: #66ffff;
+}
+
+.bg-cyan.lighten-30 {
+  color: color-yiq(#99ffff);
+  background-color: #99ffff;
+}
+
+.bg-cyan.lighten-40 {
+  color: color-yiq(#ccffff);
+  background-color: #ccffff;
+}
+
+.bg-cyan.lighten-50 {
+  color: color-yiq(white);
+  background-color: white;
+}
+
+.bg-cyan.lighten-60 {
+  color: color-yiq(white);
+  background-color: white;
+}
+
+.bg-cyan.lighten-70 {
+  color: color-yiq(white);
+  background-color: white;
+}
+
+.bg-cyan.lighten-80 {
+  color: color-yiq(white);
+  background-color: white;
+}
+
+.bg-cyan.lighten-90 {
+  color: color-yiq(white);
+  background-color: white;
+}
+
+.bg-cyan.lighten-100 {
+  color: color-yiq(white);
+  background-color: white;
+}
+
+.bg-white.lighten-0 {
+  color: color-yiq(white);
+  background-color: white;
+}
+
+.bg-white.lighten-10 {
+  color: color-yiq(white);
+  background-color: white;
+}
+
+.bg-white.lighten-20 {
+  color: color-yiq(white);
+  background-color: white;
+}
+
+.bg-white.lighten-30 {
+  color: color-yiq(white);
+  background-color: white;
+}
+
+.bg-white.lighten-40 {
+  color: color-yiq(white);
+  background-color: white;
+}
+
+.bg-white.lighten-50 {
+  color: color-yiq(white);
+  background-color: white;
+}
+
+.bg-white.lighten-60 {
+  color: color-yiq(white);
+  background-color: white;
+}
+
+.bg-white.lighten-70 {
+  color: color-yiq(white);
+  background-color: white;
+}
+
+.bg-white.lighten-80 {
+  color: color-yiq(white);
+  background-color: white;
+}
+
+.bg-white.lighten-90 {
+  color: color-yiq(white);
+  background-color: white;
+}
+
+.bg-white.lighten-100 {
+  color: color-yiq(white);
+  background-color: white;
+}
+
+.bg-gray.lighten-0 {
+  color: color-yiq(#4f4f4f);
+  background-color: #4f4f4f;
+}
+
+.bg-gray.lighten-10 {
+  color: color-yiq(dimgray);
+  background-color: dimgray;
+}
+
+.bg-gray.lighten-20 {
+  color: color-yiq(#828282);
+  background-color: #828282;
+}
+
+.bg-gray.lighten-30 {
+  color: color-yiq(#9c9c9c);
+  background-color: #9c9c9c;
+}
+
+.bg-gray.lighten-40 {
+  color: color-yiq(#b5b5b5);
+  background-color: #b5b5b5;
+}
+
+.bg-gray.lighten-50 {
+  color: color-yiq(#cfcfcf);
+  background-color: #cfcfcf;
+}
+
+.bg-gray.lighten-60 {
+  color: color-yiq(#e8e8e8);
+  background-color: #e8e8e8;
+}
+
+.bg-gray.lighten-70 {
+  color: color-yiq(white);
+  background-color: white;
+}
+
+.bg-gray.lighten-80 {
+  color: color-yiq(white);
+  background-color: white;
+}
+
+.bg-gray.lighten-90 {
+  color: color-yiq(white);
+  background-color: white;
+}
+
+.bg-gray.lighten-100 {
+  color: color-yiq(white);
+  background-color: white;
+}
+
+.bg-gray-dark.lighten-0 {
+  color: color-yiq(darkslategray);
+  background-color: darkslategray;
+}
+
+.bg-gray-dark.lighten-10 {
+  color: color-yiq(#426f6f);
+  background-color: #426f6f;
+}
+
+.bg-gray-dark.lighten-20 {
+  color: color-yiq(#558f8f);
+  background-color: #558f8f;
+}
+
+.bg-gray-dark.lighten-30 {
+  color: color-yiq(#6ea9a9);
+  background-color: #6ea9a9;
+}
+
+.bg-gray-dark.lighten-40 {
+  color: color-yiq(#8ebcbc);
+  background-color: #8ebcbc;
+}
+
+.bg-gray-dark.lighten-50 {
+  color: color-yiq(#aecfcf);
+  background-color: #aecfcf;
+}
+
+.bg-gray-dark.lighten-60 {
+  color: color-yiq(#cee2e2);
+  background-color: #cee2e2;
+}
+
+.bg-gray-dark.lighten-70 {
+  color: color-yiq(#eef5f5);
+  background-color: #eef5f5;
+}
+
+.bg-gray-dark.lighten-80 {
+  color: color-yiq(white);
+  background-color: white;
+}
+
+.bg-gray-dark.lighten-90 {
+  color: color-yiq(white);
+  background-color: white;
+}
+
+.bg-gray-dark.lighten-100 {
+  color: color-yiq(white);
+  background-color: white;
+}
+
+.skeleton-loader {
+  box-shadow: 0 4px 10px 0 rgba(33, 33, 33, 0.15);
+  border-radius: 4px;
+  position: relative;
+  overflow: hidden;
+  background-color: #dcdcdc;
+  pointer-events: none;
+}
+.skeleton-loader.dark {
+  background-color: #9d9c9c;
+}
+.skeleton-loader.card {
+  background-color: #fff;
+}
+.skeleton-loader.card::before {
+  content: "";
+  display: block;
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 100%;
+  background: linear-gradient(to right, transparent 0%, #f6f6f6 50%, transparent 100%);
+  animation: load 1.5s cubic-bezier(0.4, 0, 0.2, 1) infinite;
+  width: 50%;
+}
+.skeleton-loader.avatar {
+  border-radius: 50%;
+  height: 45px;
+  width: 45px;
+}
+.skeleton-loader.avatar.tile {
+  border-radius: 5%;
+}
+.skeleton-loader.avatar.md {
+  height: 65px;
+  width: 65px;
+}
+.skeleton-loader.avatar.lg {
+  height: 85px;
+  width: 85px;
+}
+.skeleton-loader.text {
+  width: clamp(50%, 160px, 100%);
+  height: 1rem;
+  line-height: 1.5rem;
+  margin: 0.5rem 0;
+}
+.skeleton-loader.text.sm {
+  width: clamp(25%, 80px, 100%);
+}
+.skeleton-loader.text.lg {
+  width: clamp(75%, 250px, 100%);
+}
+.skeleton-loader.text.block {
+  width: clamp(100%, 500px, 100%);
+}
+.skeleton-loader::before {
+  content: "";
+  display: block;
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 50px;
+  background: linear-gradient(to right, transparent 0%, #E8E8E8 50%, transparent 100%);
+  animation: load 1s cubic-bezier(0.4, 0, 0.2, 1) infinite;
+}
+
+@keyframes load {
+  from {
+    left: 0;
+  }
+  to {
+    left: 100%;
+  }
+}
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  background-color: #f2f2f2;
+}
+
+main {
+  flex-grow: 1;
+}
+
+/*# sourceMappingURL=main.css.map */
