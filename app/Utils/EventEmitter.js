@@ -8,7 +8,7 @@ export class EventEmitter {
    */
   on(event, fn, thisContext = null) {
     if (typeof fn != 'function') { return; }
-    this._listeners[event] = this._listeners[event] || [];
+    this._listeners[event] = Array.isArray(this._listeners[event]) ? this._listeners[event] : [];
     // @ts-ignore
     fn.ctx = thisContext;
     this._listeners[event].push(fn);
@@ -18,7 +18,7 @@ export class EventEmitter {
    * @param {function} fn
    */
   off(event, fn) {
-    this._listeners[event] = this._listeners[event] || [];
+    this._listeners[event] = Array.isArray(this._listeners[event]) ? this._listeners[event] : [];
     const i = this._listeners[event].indexOf(fn);
     if (i === -1) { return; }
     this._listeners[event].splice(i, 1);

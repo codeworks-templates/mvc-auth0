@@ -1,5 +1,10 @@
+import { ProxyState } from "../AppState";
 
-class ValuesService { }
+class ValuesService {
+  addValue() {
+    ProxyState.values = [...ProxyState.values, { id: Math.random() }]
+  }
+}
 
-const service = new ValuesService();
-export default service;
+export const valuesService = new ValuesService();
+
