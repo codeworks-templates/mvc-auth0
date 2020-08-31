@@ -1,4 +1,5 @@
 import { ProxyState } from "../AppState.js";
+import { valuesService } from "../Services/ValuesService.js";
 
 
 //Private
@@ -14,7 +15,7 @@ export default class ValuesController {
   }
 
   addValue() {
-    ProxyState.values = [...ProxyState.values, { id: Math.random() }]
+    valuesService.addValue()
   }
 
 }
